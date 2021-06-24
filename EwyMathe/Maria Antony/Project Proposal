@@ -1,0 +1,3 @@
+Utilize physio (open access/deidentified patient database) to review a small dataset of patients (N=16) undergoing an RCT for safety and efficacy of intranasal insulin
+Link: https://physionet.org/content/inipdmsa/1.0/
+Use R to provide statistical data and visualization of lab data (A1c) and performance on cognitive scoring tests (MOCA)--comparing both disease (Parkinson's vs. MDS) and (treatment vs. control)
